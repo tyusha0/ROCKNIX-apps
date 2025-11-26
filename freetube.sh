@@ -15,7 +15,7 @@ GPTK_FULL="$PORTS_DIR/freetube.gptk"            # full mapping
 GPTK_HOTKEY="$PORTS_DIR/freetube_hotkey.gptk"   # hotkey-only mapping
 FREETUBE_LAUNCHER="$PORTS_DIR/FreeTube.sh"
 
-FREETUBE_URL="https://github.com/FreeTubeApp/FreeTube/releases/download/v0.23.12-beta/freetube-0.23.12-beta-amd64.AppImage"
+FREETUBE_URL="https://github.com/FreeTubeApp/FreeTube/releases/download/v0.23.12-beta/freetube-0.23.12-beta-arm64.AppImage"
 RUNTIME_URL="https://github.com/profork/ROCKNIX-apps/releases/download/r1/chromium-runtime.tar.gz"
 
 FREETUBE_APPIMAGE="${APP_DIR}/FreeTube.AppImage"
